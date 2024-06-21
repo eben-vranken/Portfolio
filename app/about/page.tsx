@@ -16,7 +16,7 @@ const About: FunctionComponent = () => {
                             <Hand size={20} weight="bold" className="rotate-45 text-tertiary" />
                             <h1 className="font-bold">Introduction</h1>
                         </section>
-                        <p>I'm <b className="text-tertiary">Eben Vranken</b>, a 21-year-old dedicated front-end developer with a passion  for crafting <b>clean</b> and <b>intuitive</b> user interfaces.</p>
+                        <p>I&apos;m <b className="text-tertiary">Eben Vranken</b>, a 21-year-old dedicated front-end developer with a passion  for crafting <b>clean</b> and <b>intuitive</b> user interfaces.</p>
                     </section>
 
                     <section className="max-lg:py-10 py-20 px-4 border-b border-white/50 flex flex-col gap-y-2">
@@ -32,7 +32,7 @@ const About: FunctionComponent = () => {
                             <Barbell size={20} weight="bold" className="text-tertiary" />
                             <h1 className="font-bold">Skills</h1>
                         </section>
-                        <p>My journey started with HTML, CSS, and JavaScript. I soon adopted React as my first framework, but <b className="text-tertiary">Next.js</b> became my forte. I excel in creating dynamic, fast web apps with it. Alongside, I've used Bootstrap, but I prefer <b className="text-tertiary">Tailwind CSS</b> for its utility-first approach. It enhances my workflow, letting me focus on intuitive UI design.</p>
+                        <p>My journey started with HTML, CSS, and JavaScript. I soon adopted React as my first framework, but <b className="text-tertiary">Next.js</b> became my forte. I excel in creating dynamic, fast web apps with it. Alongside, I&apos;ve used Bootstrap, but I prefer <b className="text-tertiary">Tailwind CSS</b> for its utility-first approach. It enhances my workflow, letting me focus on intuitive UI design.</p>
                     </section>
 
                     <section className="max-lg:py-10 py-20 px-4 border-b border-white/50 flex flex-col gap-y-2">

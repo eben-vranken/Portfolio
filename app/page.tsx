@@ -4,7 +4,7 @@ import { Coffee } from "@phosphor-icons/react/dist/ssr";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-const darkTheme = typeof window !== 'undefined' ? localStorage.getItem("dark-theme") : null || true
+const darkTheme = typeof window !== "undefined" ? localStorage.getItem("dark-theme") : null || true
 
 
 console.log(darkTheme)
@@ -45,11 +45,11 @@ export default function Home() {
               <p>Crafting visually stunning, responsive, and user-centric websites.</p>
 
               <p>
-                Let's bring your ideas to life with clean and efficient code.
+                Let&apos;s bring your ideas to life with clean and efficient code.
               </p>
 
               <p>
-                Explore my portfolio to see the work I've done and the skills I bring to the table.
+                Explore my portfolio to see the work I&apos;ve done and the skills I bring to the table.
               </p>
             </section>
 

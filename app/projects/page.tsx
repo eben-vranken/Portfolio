@@ -18,7 +18,7 @@ const Projects: FunctionComponent = () => {
                     <h1 className="max-lg:text-2xl text-4xl font-bold">Projects</h1>
                 </section>
 
-                <p className="mt-2 max-w-[400px] text-center">Explore my projects to see the websites and applications I've created using React, Next.js, and more. Each showcases my skills in crafting clean, user-friendly designs.</p>
+                <p className="mt-2 max-w-[400px] text-center">Explore my projects to see the websites and applications I&apos;ve created using React, Next.js, and more. Each showcases my skills in crafting clean, user-friendly designs.</p>
             </section>
 
             {/* Project List */}
@@ -32,7 +32,7 @@ const Projects: FunctionComponent = () => {
                             <h1 className="text-lg font-bold">Textuva</h1>
                         </section>
 
-                        <p className=" opacity-75"><b>Textuva</b> was an ambitious <b>AI-powered learning platform</b> offering <b>personalized courses</b> and <b>interactive quizzes</b>. Although it didn't launch, the project provided valuable insights into <b>AI integration</b>, <b>user engagement</b>, and <b>innovative educational tools</b>. This experience significantly enhanced my <b>web development</b> and <b>project management skills</b>, preparing me for future challenges.</p>
+                        <p className=" opacity-75"><b>Textuva</b> was an ambitious <b>AI-powered learning platform</b> offering <b>personalized courses</b> and <b>interactive quizzes</b>. Although it didn&apos;t launch, the project provided valuable insights into <b>AI integration</b>, <b>user engagement</b>, and <b>innovative educational tools</b>. This experience significantly enhanced my <b>web development</b> and <b>project management skills</b>, preparing me for future challenges.</p>
 
                         <Link href="https://www.textuva.com" target="_blank" className="bg-tertiary rounded w-fit px-3 py-1 font-bold">Visit</Link>
                     </section>
