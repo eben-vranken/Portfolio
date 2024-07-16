@@ -1,6 +1,6 @@
 "use client"
 
-import { Coffee } from "@phosphor-icons/react/dist/ssr";
+import { Axe, Coffee } from "@phosphor-icons/react/dist/ssr";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
@@ -60,6 +60,11 @@ export default function Home() {
               </section>
               About me
             </Link>
+
+            <section className="p-2 bg-yellow-500 rounded flex gap-x-2 items-center">
+              <Axe size={32} weight="bold" />
+              <span className="font-bold">This site is still under construction.</span>
+            </section>
           </section>
         </section>
       </section>
